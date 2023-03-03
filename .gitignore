@@ -1,0 +1,10 @@
+# Files untracked by Git
+
+# Temp MS Offce files, w/ ~ prefix
+~*
+
+# Files in the explicit exclude folder
+Exclude/**
+
+
+
